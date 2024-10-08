@@ -1,0 +1,36 @@
+body {
+    background-color: blueviolet;
+}
+
+h1 {
+    text-align: center;
+
+    background-color: #311313;
+    color: aliceblue;
+    width: 25%;
+    height: auto;
+    padding: auto;
+    margin: 10% 35%;
+}
+
+div {
+    background-color: black;
+    border: 10px solid red;
+    width: 1000px;
+    height: 638px;
+    text-align: center;
+    margin: 10%;
+}
+
+.p1 {
+    background-color: #1FE8B7;
+    padding: 5% 20%;
+    margin: 5% 10%;
+}
+.p2{
+    background-color: #1FE8B7;
+    padding: 5% 20%;
+    margin: 1% 10%;
+}
+
+}
